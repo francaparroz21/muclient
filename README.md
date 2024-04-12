@@ -1,4 +1,4 @@
-# muclient
+#Cliente de MU ONLINE
 
 1- Abrir la carpeta "Encoder" y ejecutar "InfoEncoder".
 2- Copiar todo el contenido en la ruta "\clientmu\Encoder\Client"
